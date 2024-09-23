@@ -2,7 +2,8 @@ import React from "react"
 import LoginButton from "../../../components/Login/LoginButton" ;
 import LogoutButton from "../../../components/Login/LogoutButton";
 import Profile from "../../../components/Login/Profile";
-import DarkMode from '../../../pages/Darkmode/Darkmode';
+import DarkMode from "../../../pages/Darkmode/DarkMode";
+
 
 export default function Navbar() {
  
