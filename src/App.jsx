@@ -18,6 +18,10 @@ import NavigateEvents from "./Routes/Navigate/NavigateEvents";
 import Newletter from "./components/Newletter/Newletter";
 import NewspaperGrid from "./components/FlipCard/NewpaperGrid";
 import Accordians from "./pages/Accordians/Accordians";
+import Navbar from "../src/components/CreateTournament/Navbar/Navbar";
+import Tournament from "../src/components/CreateTournament/Tournament"; 
+
+
 // import Leaderboard from "./components/Leaderboard/Leaderboard";
 
 function App() {
@@ -25,7 +29,15 @@ function App() {
     <BrowserRouter>
       <Routes>
         <Route path="/contact" element={<Contact />} />
-        <Route path="/tournament" element={<Navigate />} />
+        <Route
+          path="/tournament"
+          element={
+            <>
+              <Navbar />
+              <Tournament />
+            </>
+          }
+        />
         <Route path="/community" element={<NavigateCommunity />} />
         <Route path="/events" element={<NavigateEvents />} />
         <Route
@@ -42,7 +54,7 @@ function App() {
               <NewspaperGrid />
               <Scroll />
               <SportsPage />
-              <Accordians/>
+              <Accordians />
               {/* <Leaderboard/> */}
               <Newletter />
               <Footer />
