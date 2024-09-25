@@ -32,7 +32,7 @@ export default function Intro() {
         >
           <motion.header className="" {...slideAnimation("down")}>
             <motion.h3 className="max-w-7xl ml-5 mx-auto text-white gap-3 mr-3">
-              Hustler's Sports Acadamy{" "}
+              Hustler's Sports Academy{" "}
             </motion.h3>
           </motion.header>
 

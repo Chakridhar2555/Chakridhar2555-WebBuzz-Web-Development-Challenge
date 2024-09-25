@@ -21,8 +21,8 @@ export default function Newletter() {
         "template_t1wxkdp",
 
         {
-          to_name: "Hustler's Sports Acadamy",
-          from_name: " Hustler's Sports Acadamy",
+          to_name: "Hustler's Sports Academy",
+          from_name: " Hustler's Sports Academy",
           message: "",
         },
 

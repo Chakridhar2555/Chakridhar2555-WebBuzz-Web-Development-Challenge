@@ -12,7 +12,7 @@ export default function Footer() {
           <div className=" my-2 items-center  ">
             <h1 className="text-white  text-2xl  font-BrunoAceSc  flex justify-around   md:justify-start lg:justify-start items-center ">
               {" "}
-              Hustler's Sports Acadamy{" "}
+              Hustler's Sports Academy{" "}
             </h1>
             <div className="flex flex-row text-white pt-5   justify-center md:justify-start lg:justify-start items-center cursor-pointer backdrop-filter gap-3 ">
               {" "}
@@ -110,7 +110,7 @@ export default function Footer() {
               <li className="mb-1 flex justify-around items-center sm:justify-start ">
                 <a href="#" className="hover:text-white">
                   {" "}
-                  Hustler's Sports Acadamy@gmail.com
+                  Hustler's Sports Academy@gmail.com
                 </a>
               </li>
             </ul>

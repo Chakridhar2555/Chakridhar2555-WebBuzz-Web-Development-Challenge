@@ -24,7 +24,7 @@ export default function Home() {
               className="head-text mt-48 "
               {...slideAnimation}
             >
-              Hustler's Sports Acadamy
+              Hustler's Sports Academy
             </motion.h1>{" "}
             <motion.p
               initial={{ opacity: 0, y: 100 }}

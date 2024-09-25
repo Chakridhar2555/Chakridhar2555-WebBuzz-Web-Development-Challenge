@@ -22,7 +22,7 @@ import Navbar from "../src/components/CreateTournament/Navbar/Navbar";
 import Tournament from "../src/components/CreateTournament/Tournament"; 
 
 
-// import Leaderboard from "./components/Leaderboard/Leaderboard";
+
 
 function App() {
   return (
@@ -54,8 +54,6 @@ function App() {
               <NewspaperGrid />
               <Scroll />
               <SportsPage />
-              <Accordians />
-              {/* <Leaderboard/> */}
               <Newletter />
               <Footer />
             </>
