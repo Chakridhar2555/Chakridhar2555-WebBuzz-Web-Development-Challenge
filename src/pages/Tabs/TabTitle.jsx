@@ -15,8 +15,8 @@ export default function TabTitle() {
           Enjoy your game, we'll handle the rest
         </h2>
         <p className="flex active:text-slate-600     dark:text-slate-400 flex-wrap font-manrope items-center justify-center  max-sm:text-xs max-sm:text-center max-sm:justify-center mt-8 ">
-          Boundary Bytes Cricket Acadamy has a variety of settings that can fit
-          your Friday night game with friends.
+          Hustler's Sports Acadamy has a variety of settings that can fit your
+          Friday night game with friends.
         </p>
       </motion.div>
 

@@ -21,7 +21,9 @@ export default function Intro() {
   };
 
   return (
-    <div className="dark"> {/* Apply the dark mode class to the top level */}
+    <div className="dark">
+      {" "}
+      {/* Apply the dark mode class to the top level */}
       <header className={`z-[999] relative`}>
         <motion.div
           className="fixed top-0 left-1/2 -translate-x-1/2 h-[4.5rem] w-[90%] max-w-6xl opacity-50 glassmorphism bg-opacity-40 shadow-lg shadow-black/5 backdrop-blur-[0.5rem] sm:top-6 sm:h-[3.5rem] sm:rounded-lg flex items-center sm:justify-between"
@@ -30,7 +32,8 @@ export default function Intro() {
         >
           <motion.header className="" {...slideAnimation("down")}>
             <motion.h3 className="max-w-7xl ml-5 mx-auto text-white gap-3 mr-3">
-              Boundary Bytes Cricket Acadamy            </motion.h3>
+              Hustler's Sports Acadamy{" "}
+            </motion.h3>
           </motion.header>
 
           <nav className="flex fixed top-[0.15rem] left-1/2 h-12 -translate-x-1/2 py-2 sm:top-[1.7rem] sm:h-[initial] sm:py-0">

@@ -75,8 +75,8 @@ function About() {
           className="mt-3 text-slate-500 items-center text-center flex justify-center p-9  text-[17px] max-w-8xl w-full font-Manrope dark:text-slate-400 "
           {...fadeAnimation}
         >
-          At Boundary Bytes Cricket Acadamy we're dedicated to fostering
-          competition and sportsmanship.
+          At Hustler's Sports Acadamy we're dedicated to fostering competition
+          and sportsmanship.
           <br />
           Join us for thrilling matches and unforgettable moments!
         </motion.p>

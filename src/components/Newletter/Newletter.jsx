@@ -21,8 +21,8 @@ export default function Newletter() {
         "template_t1wxkdp",
 
         {
-          to_name: "Boundary Bytes Cricket Acadamy",
-          from_name: " Boundary Bytes Cricket Acadamy",
+          to_name: "Hustler's Sports Acadamy",
+          from_name: " Hustler's Sports Acadamy",
           message: "",
         },
 

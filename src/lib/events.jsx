@@ -4,12 +4,12 @@ import { PiUsersThreeFill } from "react-icons/pi";
 
 export default [
   {
-    title: "AGC NOV 2023",
+    title: "AGC NOV 2024",
     icons: <AiFillCalendar />,
     icons1: <MdLocationPin />,
     icons2: <PiUsersThreeFill />,
 
-    date: "Nov1, 2023 - Nov30, 2023",
+    date: "Nov1, 2024 - Nov30, 2024",
     location: "Tupelo, United States",
     community: "3 attendees",
     button: " view",
@@ -23,7 +23,7 @@ export default [
     icons1: <MdLocationPin />,
     icons2: <PiUsersThreeFill />,
 
-    date: "Nov 1, 2023 - Nov 30, 2023",
+    date: "Nov 1, 2024 - Nov 30, 2024",
     location: "Tupelo, United States",
     community: "3 attendees",
     button: " view",
@@ -37,7 +37,7 @@ export default [
     icons1: <MdLocationPin />,
     icons2: <PiUsersThreeFill />,
 
-    date: "Nov 1, 2023 - Nov 30, 2023",
+    date: "Nov 1, 2024 - Nov 30, 2024",
     location: "Tupelo, United States",
     community: "3 attendees",
     button: " view",
@@ -51,7 +51,7 @@ export default [
     icons1: <MdLocationPin />,
     icons2: <PiUsersThreeFill />,
 
-    date: "Nov 1, 2023 - Nov 30, 2023",
+    date: "Nov 1, 2024 - Nov 30, 2024",
     location: "Tupelo, United States",
     community: "3 attendees",
     button: " view",
@@ -65,7 +65,7 @@ export default [
     icons1: <MdLocationPin />,
     icons2: <PiUsersThreeFill />,
 
-    date: "Nov 1, 2023 - Nov 30, 2023",
+    date: "Nov 1, 2024 - Nov 30, 2024",
     location: "Tupelo, United States",
     community: "3 attendees",
     button: " view",
@@ -79,7 +79,7 @@ export default [
     icons1: <MdLocationPin />,
     icons2: <PiUsersThreeFill />,
 
-    date: "Nov 1, 2023 - Nov 30, 2023",
+    date: "Nov 1, 2024 - Nov 30, 2024",
     location: "Tupelo, United States",
     community: "3 attendees",
     button: " view",
@@ -93,7 +93,7 @@ export default [
     icons1: <MdLocationPin />,
     icons2: <PiUsersThreeFill />,
 
-    date: "Nov 1, 2023 - Nov 30, 2023",
+    date: "Nov 1, 2024 - Nov 30, 2024",
     location: "Tupelo, United States",
     community: "3 attendees",
     button: " view",
@@ -107,7 +107,7 @@ export default [
     icons1: <MdLocationPin />,
     icons2: <PiUsersThreeFill />,
 
-    date: "Nov 1, 2023 - Nov 30, 2023",
+    date: "Nov 1, 2024 - Nov 30, 2024",
     location: "Tupelo, United States",
     community: "3 attendees",
     button: " view",
@@ -121,7 +121,7 @@ export default [
     icons1: <MdLocationPin />,
     icons2: <PiUsersThreeFill />,
 
-    date: "Nov 1, 2023 - Nov 30, 2023",
+    date: "Nov 1, 2024 - Nov 30, 2024",
     location: "Tupelo, United States",
     community: "3 attendees",
     button: " view",
@@ -135,7 +135,7 @@ export default [
     icons1: <MdLocationPin />,
     icons2: <PiUsersThreeFill />,
 
-    date: "Nov 1, 2023 - Nov 30, 2023",
+    date: "Nov 1, 2024 - Nov 30, 2024",
     location: "Tupelo, United States",
     community: "3 attendees",
     button: " view",
@@ -149,7 +149,7 @@ export default [
     icons1: <MdLocationPin />,
     icons2: <PiUsersThreeFill />,
 
-    date: "Nov 1, 2023 - Nov 30, 2023",
+    date: "Nov 1, 2024 - Nov 30, 2024",
     location: "Tupelo, United States",
     community: "3 attendees",
     button: " view",
@@ -163,7 +163,7 @@ export default [
     icons1: <MdLocationPin />,
     icons2: <PiUsersThreeFill />,
 
-    date: "Nov 1, 2023 - Nov 30, 2023",
+    date: "Nov 1, 2024 - Nov 30, 2024",
     location: "Tupelo, United States",
     community: "3 attendees",
     button: " view",
@@ -177,7 +177,7 @@ export default [
     icons1: <MdLocationPin />,
     icons2: <PiUsersThreeFill />,
 
-    date: "Nov 1, 2023 - Nov 30, 2023",
+    date: "Nov 1, 2024 - Nov 30, 2024",
     location: "Tupelo, United States",
     community: "3 attendees",
     button: " view",
@@ -191,7 +191,7 @@ export default [
     icons1: <MdLocationPin />,
     icons2: <PiUsersThreeFill />,
 
-    date: "Nov 1, 2023 - Nov 30, 2023",
+    date: "Nov 1, 2024 - Nov 30, 2024",
     location: "Tupelo, United States",
     community: "3 attendees",
     button: " view",
@@ -205,7 +205,7 @@ export default [
     icons1: <MdLocationPin />,
     icons2: <PiUsersThreeFill />,
 
-    date: "Nov 1, 2023 - Nov 30, 2023",
+    date: "Nov 1, 2024 - Nov 30, 2024",
     location: "Tupelo, United States",
     community: "3 attendees",
     button: " view",
@@ -219,7 +219,7 @@ export default [
     icons1: <MdLocationPin />,
     icons2: <PiUsersThreeFill />,
 
-    date: "Nov 1, 2023 - Nov 30, 2023",
+    date: "Nov 1, 2024 - Nov 30, 2024",
     location: "Tupelo, United States",
     community: "3 attendees",
     button: " view",
